@@ -5,6 +5,6 @@ Data mining on banking data with following objective:-
 Youtube link for the presentation: https://www.youtube.com/watch?v=f0rDacQQKhY&feature=youtu.be
 
 Technology used:
-Enterprise Miner
-Tableau
+1. Enterprise Miner
+2. Tableau
 
