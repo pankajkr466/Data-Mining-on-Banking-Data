@@ -1,5 +1,5 @@
 # Data_Mining Project
-Data mining on banking data with following objective:- 
+Data mining on banking data with the following objectives:- 
 1. To predict if the bank customers will subscribe to a term deposit. 
 2. To evaluate how many customers have responded to a marketing campaign for taking a loan.
 
